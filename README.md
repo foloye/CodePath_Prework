@@ -41,8 +41,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://recordit.co/hAGd5OGIpv)
-![](https://recordit.co/AUXCbQpUwY)
+![x](https://recordit.co/hAGd5OGIpv)
+![x](https://recordit.co/AUXCbQpUwY)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -69,7 +69,7 @@ If I had a few more hours to work on this project, I would try to implement a fe
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/3ca74d885cad49e389eac1f8daea187b)
 
 
 ## License
